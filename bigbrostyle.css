@@ -163,6 +163,12 @@ footer {
     }
 }
 
+h1 {
+   padding-left: 20px;
+   padding-right: 10px;
+} 
+
+
 /* Global Styles */
 body {
     font-family: Arial, serif;
